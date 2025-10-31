@@ -1,0 +1,13 @@
+{
+	"MoveSpeed":"6",
+	"JumpV0":"0.3",
+	"JumpPow":"1.7",
+	"Gravity":"1",
+	"Resistance":"1",
+	"Mass":"2",
+	"AirDashDuration":"0.1",
+	"DashSpeed":"30",
+	"AirDashInterval":"0.3",
+	"PerfectModeDuration":"5",
+	"ClarificationInterval":"6"
+}
